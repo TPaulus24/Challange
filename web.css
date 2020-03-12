@@ -25,4 +25,6 @@
     width: 5%;
     margin-top: 75px;
     margin-left: 75px;
+    border-radius: 12%;
+    background-color: orangered;
 }
