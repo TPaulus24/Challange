@@ -1,0 +1,28 @@
+.container {
+    border: orangered;
+    color: orangered;
+    box-sizing: border-box;
+    border-style: solid;
+    height: 475px;
+    width: 50%;
+    margin-top: 75px;
+    margin-left: 300px;
+}
+
+.wallpaper {
+    background-color: black;
+}
+
+.textbox {
+    height: 100px;
+    width: 35%;
+    margin-top: 75px;
+    margin-left: 300px;
+}
+
+.button {
+    height: 50px;
+    width: 5%;
+    margin-top: 75px;
+    margin-left: 75px;
+}
